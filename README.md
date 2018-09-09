@@ -6,4 +6,4 @@ $ mvn clean package tomee:run
 
 # Tutorial
 
-https://www.kodnito.com/posts/getting-started-with-microprofile-using-tomee/
+https://www.kodnito.com/posts/microprofile-config-using-tomee/
